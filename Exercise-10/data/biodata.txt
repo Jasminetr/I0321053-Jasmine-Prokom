@@ -1,3 +1,6 @@
 Nama: Jasmine
 Umur: 18
 Alamat: Semarang
+Nama: Jasmine
+Umur: 18
+Alamat: Semarang
